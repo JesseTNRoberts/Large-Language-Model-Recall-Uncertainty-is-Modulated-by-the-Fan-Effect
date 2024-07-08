@@ -8,3 +8,4 @@ This repo contains the code and data used to study fan effects in language model
 ## Extending this work
 
 Others may be interested in using the methods included to generate Anderson consistent data for future work regarding fan effects in large language models.
+
